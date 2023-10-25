@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/chriscool/go-sleep v0.0.0-20150606204034-743ab5f1bb48
-	github.com/ipfs/ipget v0.9.1
+	github.com/ipfs/ipget v0.10.0
 	github.com/ipfs/kubo v0.19.0
 	github.com/whyrusleeping/pollEndpoint v0.0.0-20211207235059-e4819e26509a
 )
@@ -56,7 +56,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/mock v1.6.0 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/google/pprof v0.0.0-20221203041831-ce31453925ec // indirect
@@ -233,19 +233,19 @@ require (
 	go4.org v0.0.0-20200411211856-f5505b9728dd // indirect
 	golang.org/x/crypto v0.5.0 // indirect
 	golang.org/x/exp v0.0.0-20230129154200-a960b3787bd2 // indirect
-	golang.org/x/mod v0.7.0 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b // indirect
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/oauth2 v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/term v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
-	golang.org/x/tools v0.3.0 // indirect
+	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/term v0.7.0 // indirect
+	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
-	google.golang.org/appengine v1.6.6 // indirect
-	google.golang.org/genproto v0.0.0-20211118181313-81c1377c94b1 // indirect
-	google.golang.org/grpc v1.47.0 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	google.golang.org/appengine v1.6.7 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
+	google.golang.org/grpc v1.56.3 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	lukechampine.com/blake3 v1.1.7 // indirect
